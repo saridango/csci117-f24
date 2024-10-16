@@ -1,0 +1,12 @@
+program
+    int a, b, c;
+    double d;
+    begin
+        a = 2*(55+200);
+        b = (31 + 4) * 50;
+        c = a;
+        print a;
+        print b;
+        print c;
+        print (2+300/ 2)*4 + 2^3;
+    end
